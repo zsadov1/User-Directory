@@ -1,0 +1,50 @@
+[
+	{
+		"id": 1,
+		"lastName": "Sadovszky",
+		"firstName": "Zach",
+		"role": "Wildcard",
+		"insta": "@__xach__",
+		"location": "City Center"
+	},
+	{
+		"id": 2,
+		"lastName": "Demitri",
+		"firstName": "Daniel",
+		"role": "Filmer",
+		"insta": "@dammitdmitri",
+		"location": "Scotts Addition"
+	},
+	{
+		"id": 3,
+		"lastName": "McGrath",
+		"firstName": "Gavin",
+		"role": "Stoke Man",
+		"insta": "@_gavinmcgrath",
+		"location": "Museum District"
+	},
+	{
+		"id": 4,
+		"lastName": "Angot",
+		"firstName": "Juan",
+		"role": "Old Guy",
+		"insta": "@juanjuanwonwon",
+		"location": "Museum District"
+	},
+	{
+		"id": 5,
+		"lastName": "Diaz",
+		"firstName": "Sean",
+		"role": "Driver",
+		"insta": "@seanpauldiaz",
+		"location": "Mechanicsville"
+	},
+	{
+		"id": 6,
+		"lastName": "Elliot",
+		"firstName": "Eli",
+		"role": "Young Gun",
+		"insta": "@elijah.elliott",
+		"location": "Scotts Addition"
+	}
+]
